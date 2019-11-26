@@ -32,7 +32,7 @@ let eName = e1.getName();
 console.log('ename is', e1.company);
 
 function Resident(city) {
-  this.city = 'city';
+  this.city = 'ciy';
 }
 
 Object.assign(employee.prototype, Resident.prototype);
